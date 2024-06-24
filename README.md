@@ -45,7 +45,7 @@ I'm **Erwin**! 🌟
   - [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
   - [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   - [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
-  - [![v0 by Vercel](https://img.shields.io/badge/-v0_by_Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/v0)
+  - [![v0 by Vercel](https://img.shields.io/badge/-v0_by_Vercel-000000?logo=vercel&logoColor=white)](https://v0.dev/)
   - [![Codeium](https://img.shields.io/badge/-Codeium-00BFA5?logo=codeium&logoColor=white)](https://www.codeium.com/)
 
 ### Fun Facts
