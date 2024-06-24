@@ -1,4 +1,4 @@
-Sure! Let's add the tools `v0 by Vercel`, `Vercel`, and `Codeium` to your profile. Here’s the updated README:
+Certainly! Here's the continuation of your README profile with the necessary additions and links:
 
 ---
 
@@ -31,22 +31,22 @@ I'm **Erwin**! 🌟
 ### My Favorite Technologies
 
 - **Languages:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  - [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+  - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - **Frameworks and Libraries:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  - ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcn&logoColor=white)
-  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-  - ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
+  - [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+  - [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+  - [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+  - [![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcn&logoColor=white)](https://shadcn.dev/)
+  - [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  - [![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)](https://mui.com/)
 - **Tools:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-  - ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-  - ![v0 by Vercel](https://img.shields.io/badge/-v0_by_Vercel-000000?logo=vercel&logoColor=white)
-  - ![Codeium](https://img.shields.io/badge/-Codeium-00BFA5?logo=codeium&logoColor=white)
+  - [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+  - [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  - [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+  - [![v0 by Vercel](https://img.shields.io/badge/-v0_by_Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/v0)
+  - [![Codeium](https://img.shields.io/badge/-Codeium-00BFA5?logo=codeium&logoColor=white)](https://www.codeium.com/)
 
 ### Fun Facts
 
