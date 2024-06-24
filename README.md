@@ -19,6 +19,8 @@ I'm **Erwin**! 🌟
 - 🌈 Coding just for fun!
 - 📖 Learning new technologies through projects
 - 🛠️ Building cool and interesting things
+- 🎮 Playing video games
+- 🎧 Listening to music
 
 ### Connect with Me
 
@@ -51,8 +53,10 @@ I'm **Erwin**! 🌟
 ### Fun Facts
 
 - My favorite programming language is JavaScript 💛
-- I have a cat named Whiskers 🐾
+- I have three cat named Abom,BJ (Black Jack), and Captain 🐾
 - Always looking for new and exciting projects to work on! 🚀
+- Sometimes i don't really know about general thing in progamming
+- I prefer make something, instead knowing something.
 
 ### GitHub Stats
 
