@@ -1,4 +1,4 @@
-Sure! Let's add your favorite language and frameworks, along with their logos. Here’s the updated README:
+Sure! Let's remove Python and add the CSS frameworks you mentioned. Here's the updated README:
 
 ---
 
@@ -32,13 +32,15 @@ I'm **Erwin**! 🌟
 
 - **Languages:**
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
   - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 - **Frameworks and Libraries:**
   - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
   - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  - ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcn/ui&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  - ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
 - **Tools:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
