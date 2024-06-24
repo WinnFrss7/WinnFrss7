@@ -1,4 +1,4 @@
-Sure! Here is a cute and cool GitHub profile README for you:
+Sure! Let's add your favorite language and frameworks, along with their logos. Here’s the updated README:
 
 ---
 
@@ -22,31 +22,45 @@ I'm **Erwin**! 🌟
 
 ### Connect with Me
 
-- Feel free to reach out if you share similar interests or just want to chat!
-- Let's connect and collaborate on some fun projects! 😄
+- 💬 **Discord:** sherlockbot#7115
+- 🌐 **Facebook:** [Erwin's Facebook](https://www.facebook.com/ewingthesky)
+- 📸 **Instagram:** [@winn_eyr7](https://www.instagram.com/winn_eyr7)
+- 📧 Feel free to reach out if you share similar interests or just want to chat!
+- 🤝 Let's connect and collaborate on some fun projects! 😄
 
 ### My Favorite Technologies
 
-- **Languages:** JavaScript, Python, HTML/CSS
-- **Tools:** Git, VSCode
-- **Frameworks:** React, Node.js
+- **Languages:**
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- **Frameworks and Libraries:**
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Tools:**
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ### Fun Facts
 
-- My favorite programming language is Python 🐍
+- My favorite programming language is JavaScript 💛
 - I have a cat named Whiskers 🐾
 - Always looking for new and exciting projects to work on! 🚀
 
----
+### GitHub Stats
 
 ![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinnFreeza27&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinnFreeza27&layout=compact&theme=radical)
+
+### Let's Get in Touch! 📬
+
+Feel free to reach out through any of my social media links above or via GitHub. I'm always open to new ideas, collaborations, and making new friends in the coding community! 🌐
 
 ---
 
 🌟 Thanks for visiting my profile! Have a great day! 🌟
 
 ---
-
-Feel free to personalize it further or let me know if you need any changes!
