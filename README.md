@@ -56,7 +56,7 @@ I'm **Erwin**! 🌟
 - I have three cat named Abom,BJ (Black Jack), and Captain 🐾
 - Always looking for new and exciting projects to work on! 🚀
 - Sometimes i don't really know about general thing in progamming
-- I prefer make something, instead knowing something.
+- I prefer create something, instead knowing about something.
 
 ### GitHub Stats
 
