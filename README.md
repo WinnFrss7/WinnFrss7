@@ -1,7 +1,3 @@
-Certainly! Here's the continuation of your README profile with the necessary additions and links:
-
----
-
 ## Hi there! 👋
 
 I'm **Erwin**! 🌟
@@ -68,8 +64,3 @@ I'm **Erwin**! 🌟
 
 Feel free to reach out through any of my social media links above or via GitHub. I'm always open to new ideas, collaborations, and making new friends in the coding community! 🌐
 
----
-
-🌟 Thanks for visiting my profile! Have a great day! 🌟
-
----
