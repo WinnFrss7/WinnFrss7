@@ -1,4 +1,4 @@
-Sure! Let's remove Python and add the CSS frameworks you mentioned. Here's the updated README:
+Sure! Let's add the tools `v0 by Vercel`, `Vercel`, and `Codeium` to your profile. Here’s the updated README:
 
 ---
 
@@ -38,12 +38,15 @@ I'm **Erwin**! 🌟
   - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
   - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  - ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcn/ui&logoColor=white)
+  - ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcn&logoColor=white)
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
   - ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
 - **Tools:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+  - ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+  - ![v0 by Vercel](https://img.shields.io/badge/-v0_by_Vercel-000000?logo=vercel&logoColor=white)
+  - ![Codeium](https://img.shields.io/badge/-Codeium-00BFA5?logo=codeium&logoColor=white)
 
 ### Fun Facts
 
