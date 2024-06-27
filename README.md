@@ -51,8 +51,7 @@ I'm **Erwin**! 🌟
 - My favorite programming language is JavaScript 💛
 - I have three cats named Abom, BJ (Black Jack), and Captain 🐾
 - Always looking for new and exciting projects to work on! 🚀
-- Sometimes I don't really know about general things in programming
-- I prefer creating something, instead of just knowing about something.
+- I don't really know about general things in programming
 
 ### Spotify Playlist
 
