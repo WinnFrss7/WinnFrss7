@@ -55,7 +55,7 @@ I'm **Erwin**! 🌟
 
 ### Spotify Playlist
 
-![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white) Check out my favorite tunes on [Spotify](https://open.spotify.com/playlist/0AZAya4Ow42TyrviY61i2c)!
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white) Check out my favorite tunes on [Spotify](https://open.spotify.com/playlist/1YuF05e3wCHv6xbVZfm3ob?si=e499685f2ac746e4)!
 
 ### GitHub Stats
 
