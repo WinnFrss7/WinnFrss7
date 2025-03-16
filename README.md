@@ -59,9 +59,9 @@ I'm **Erwin**! 🌟
 
 ### GitHub Stats
 
-![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinnFreeza27&show_icons=true&theme=radical)
+![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinnFrss7&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinnFreeza27&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinnFrss7&layout=compact&theme=radical)
 
 ### Let's Get in Touch! 📬
 
